@@ -1,0 +1,11 @@
+/node_modules
+/dist
+/*.log
+/.vscode
+/size-plugin.json
+coverage
+package-lock.json
+yarn.lock
+build.tar.gz
+.DS_Store
+.env

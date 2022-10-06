@@ -1,0 +1,22 @@
+{
+    "extends": [
+      "eslint:recommended",
+      "google"
+    ],
+    "parserOptions": {
+      "sourceType": "module"
+    },
+    "env": {
+      "browser": true,
+      "es6": true,
+      "node": true
+    },
+    "globals": {
+
+    },
+    "rules": {
+      "no-unused-vars" : 2,
+      "no-trailing-spaces": "warn",
+      "require-jsdoc": "off"
+    }
+  }
